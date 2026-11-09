@@ -9,5 +9,7 @@ node_modules/
 .next/
 
 # local env + editor state
+.env
+.env.local
 .env.*.local
-config.bat
+.vscode/
